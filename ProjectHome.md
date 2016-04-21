@@ -1,0 +1,1 @@
+Binging for C libvirt (http://libvirt.org/) library to Mono (C#).
